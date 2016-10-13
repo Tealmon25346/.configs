@@ -1,11 +1,11 @@
 # .configs
 These are my #ricefiles
 
-# Prerequisites
+# Prerequisites & Dependencies
 you need to have these programs installed:
 
 ``` 
-rxvt-unicode-256color i3-wm i3blocks scrot imagemagick
+rxvt-unicode-256color i3-wm i3blocks scrot imagemagick rofi compton lxappearance i3lock
 ```
 for the rest of the terminal plugins, use: 
 https://github.com/VundleVim/Vundle.vim
