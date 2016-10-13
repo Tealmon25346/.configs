@@ -17,3 +17,5 @@ for the terminal to use powerline fonts, use:
 https://github.com/powerline/fonts
 
 here is a screenshot of my neofetch:
+![neofetch](https://cloud.githubusercontent.com/assets/7982111/19371120/2fbe4c8a-9176-11e6-8924-86c8ea493390.png)
+
